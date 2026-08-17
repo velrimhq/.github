@@ -9,5 +9,3 @@
 - **Python SDK** — [`velrim` on PyPI](https://pypi.org/project/velrim/)
 - **Eval CLI** — [`velrim-eval`](https://github.com/velrimhq/velrim-eval): eval-as-code for document extraction, with adapters for Velrim, OpenAI, Gemini, LlamaExtract, and Mistral
 - **Scoring library** — [`@velrim/scoring` on npm](https://www.npmjs.com/package/@velrim/scoring): the same per-field scoring math the API's reliability curves use
-
-Flat $0.02 per page. Open beta — [velrim.com](https://velrim.com).
